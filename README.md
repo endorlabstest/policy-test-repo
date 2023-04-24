@@ -1,1 +1,1 @@
-# sanity-test-repo-java
+# sanity-test-repo-java for sanity testing
